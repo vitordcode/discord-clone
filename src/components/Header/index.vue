@@ -38,7 +38,7 @@
       </nav>
 
       <div class="w-full h-screen bg-black bg-opacity-60 absolute z-50 flex justify-end">
-        <div class="w-11/12 h-full bg-white nav-toggle px-5">
+        <div class="w-11/12 h-full flex flex-col justify-between bg-white nav-toggle px-5">
           <div class="flex flex-row justify-between items-center py-8 border-b-2 border-gray-500 border-opacity-10">
             <a href="/">
               <svg width="124" height="34" viewBox="0 0 124 34" class="text-black">
@@ -52,6 +52,29 @@
                 </svg>
             </a>
           </div>
+
+          <ul class="h-full text-gray-800 font-light flex flex-col justify-start">
+            <li class="px-4 py-2">
+              <a class="hover:underline" href="#baixar">Baixar</a>
+            </li>
+            <li class="px-4 py-2">
+              <a class="hover:underline" href="#nitro">Nitro</a>
+            </li>
+            <li class="px-4 py-2">
+              <a class="hover:underline" href="#seguranca">Seguranca</a>
+            </li>
+            <li class="px-4 py-2">
+              <a class="hover:underline" href="#suporte">Suporte</a>
+            </li>
+          </ul>
+
+          <a 
+            class="mb-6 text-lg bg-indigo-600 hover:shadow-xl rounded-full px-8 py-3 text-gray-800 flex justify-center items-center" href="#">
+            <svg width="24" height="24" viewBox="0 0 24 24" class="animate-bounce mr-2">
+              <g fill="currentColor"><path d="M17.707 10.708L16.293 9.29398L13 12.587V2.00098H11V12.587L7.70697 9.29398L6.29297 10.708L12 16.415L17.707 10.708Z"></path><path d="M18 18.001V20.001H6V18.001H4V20.001C4 21.103 4.897 22.001 6 22.001H18C19.104 22.001 20 21.103 20 20.001V18.001H18Z"></path></g>
+            </svg>
+            Baixar para Windows
+          </a>
         </div>
       </div>
 
