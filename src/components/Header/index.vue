@@ -37,7 +37,7 @@
         </div>
       </nav>
 
-      <div class="w-full h-screen bg-black bg-opacity-60 absolute z-50 flex justify-end">
+      <div class="w-full h-screen bg-black bg-opacity-60 absolute z-50 flex justify-end overflow-hidden">
         <div class="w-11/12 h-full flex flex-col justify-between bg-white nav-toggle px-5">
           <div class="flex flex-row justify-between items-center py-8 border-b-2 border-gray-500 border-opacity-10">
             <a href="/">
@@ -54,7 +54,7 @@
           </div>
 
           <ul class="h-full text-gray-800 font-light flex flex-col justify-start">
-            <li class="px-4 py-2">
+            <li class="px-4 py-2 pt-6">
               <a class="hover:underline" href="#baixar">Baixar</a>
             </li>
             <li class="px-4 py-2">
