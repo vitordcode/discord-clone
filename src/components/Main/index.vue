@@ -1,5 +1,5 @@
 <template>
-  <section class="w-full mt-32">
+  <section class="w-full mt-28">
     <div class="container max-w-7xl w-full flex flex-col lg:flex-row lg:justify-between lg:items-center m-auto">
       <div class="w-11/12 lg:w-4/6 flex m-auto lg:justify-start">
         <img class="" src="../../assets/images/study.svg" alt="Study">
@@ -10,7 +10,7 @@
       </div>
     </div>
 
-    <div class="container max-w-7xl w-full flex-col-reverse lg:flex-row lg:justify-between lg:items-center m-auto mt-36">
+    <div class="container max-w-7xl w-full flex-col-reverse lg:flex-row lg:justify-between lg:items-center m-auto mt-28">
       <div class="w-11/12 lg:w-4/6 flex lg:justify-end m-auto">
         <img class="" src="../../assets/images/chillin.svg" alt="chillin">
       </div>
@@ -20,7 +20,7 @@
       </div>      
     </div>
 
-    <div class="container max-w-7xl w-full flex flex-col lg:flex-row lg:justify-between lg:items-center mx-auto mt-36">
+    <div class="container max-w-7xl w-full flex flex-col lg:flex-row lg:justify-between lg:items-center mx-auto mt-28">
       <div class="w-11/12 lg:w-4/6 flex justify-start mx-auto">
         <img class="" src="../../assets/images/coach.svg" alt="coach">
       </div>
@@ -31,7 +31,7 @@
     </div>
   </section>
 
-  <section class="w-full mt-36 mb-36">
+  <section class="w-full mt-28 mb-36">
     <div class="container w-11/12 lg:max-w-7xl mx-auto">
       <h1 class="text-gray-800 flex justify-start font-black text-2xl lg:text-xl lg:text-5xl leading-12 uppercase text-start lg:text-center">Tecnologia de conexao <br>confiável</h1>
       <p class="text-gray-600 text-sm lg:text-base text-start lg:text-center max-w-4xl pt-6 mx-auto">Voz e vídeo de baixa latência, para você conversar como se estivesse na mesma sala. Dê um joinha por vídeo, veja amigos transmitirem a jogatina do dia ou junte uma galera pra desenhar na tela compartilhada.</p>
