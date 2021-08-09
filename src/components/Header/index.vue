@@ -40,16 +40,16 @@
       <h1 class="uppercase font-black text-white z-10 text-3xl  lg:text-7xl lg:text-center pt-15 px-5">Imagine um lugar...</h1>
       <p class="text-white font-light text-sm lg:text-base max-w-3xl leading-7 z-10 lg:text-center pt-5 lg:pt-10 px-5">…onde você possa pertencer a um clube escolar, um grupo de gamers, ou uma comunidade artística mundial. Onde você e alguns amigos possam passar um tempo juntos. Um lugar que torna fácil conversar todos os dias e socializar com mais frequência.</p>
 
-      <div class="flex flex-col md:flex-row z-10 items-start md:justify-center pt-6 px-5">
+      <div class="flex flex-col md:flex-row z-10 items-start md:justify-center pt-6 px-5 mb-30 lg:mb-0">
         <a 
-          class="mb-6 text-lg bg-white hover:shadow-xl rounded-full px-8 py-3 text-gray-800 flex justify-center items-center" href="#">
+          class="mb-6 text-base lg:text-lg bg-white hover:shadow-xl rounded-full px-8 py-3 text-gray-800 flex justify-center items-center" href="#">
           <svg width="24" height="24" viewBox="0 0 24 24" class="animate-bounce mr-2">
             <g fill="currentColor"><path d="M17.707 10.708L16.293 9.29398L13 12.587V2.00098H11V12.587L7.70697 9.29398L6.29297 10.708L12 16.415L17.707 10.708Z"></path><path d="M18 18.001V20.001H6V18.001H4V20.001C4 21.103 4.897 22.001 6 22.001H18C19.104 22.001 20 21.103 20 20.001V18.001H18Z"></path></g>
           </svg>
           Baixar para Windows
         </a>
         <a 
-          class="md:ml-6 text-lg font-light bg-gray-800 hover:bg-gray-600 rounded-full px-8 py-3 text-white flex justify-center items-center" href="#">
+          class="md:ml-6 text-base lg:text-lg font-light bg-gray-800 hover:bg-gray-600 rounded-full px-8 py-3 text-white flex justify-center items-center" href="#">
           Abra o Discord no seu navegador
         </a>
       </div>
